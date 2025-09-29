@@ -1,4 +1,3 @@
-Here’s a **corrected and polished README.md** with **CI/CD badges added properly** for your Python project using GitHub Actions (CI Build + CodeQL Security). I’ve also cleaned up formatting and instructions for clarity:
 
 ---
 
@@ -78,4 +77,5 @@ cd YOUR_REPOSITORY
 * You can view the CI/CD status and CodeQL security results directly in the **Actions** and **Security** tabs on GitHub.
 
 ---
+
 
