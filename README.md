@@ -10,7 +10,7 @@ This repository contains a simple Python application managed via a robust **Cont
 ## 🛡️ Build and Security Status
 
 ![CI Build Status](https://github.com/Aamst258/progressAssignment-2/actions/workflows/python-ci.yml/badge.svg)
-![CodeQL Security](https://github.com/Aamst258/progressAssignment-2/security/code-scanning/badge)
+![CodeQL Security](https://github.com/Aamst258/progressAssignment-2/actions/workflows/python-ci.yml/badge.svg)
 
 ---
 
@@ -77,5 +77,6 @@ cd YOUR_REPOSITORY
 * You can view the CI/CD status and CodeQL security results directly in the **Actions** and **Security** tabs on GitHub.
 
 ---
+
 
 
